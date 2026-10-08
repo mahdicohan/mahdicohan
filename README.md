@@ -1,10 +1,11 @@
 <!--## Hi there 👋
 Analytics Data Engineer & Architect | Specializing in Real-Time Analytics (ClickHouse), PostgreSQL, and Python | Targeting EU Opportunities.-->
+
 # Hi, I'm Mahdi 👋
 
-**Business-Driven Data Engineer & Architect | Specializing in Retail & Logistics Analytics**
+**Business-Driven Analytics Data Engineer & Architect | Specializing in Retail & Logistics Analytics**
 
-I am a Data Engineer with over 15 years of end-to-end IT experience, progressing from Systems Infrastructure and DBA into modern Data Warehousing and Analytics. Because my roots are in heavy infrastructure (Linux, VMware, Networking) and Enterprise Database Administration (managing SQL Server environments up to 8TB for 100+ clients), I build data architectures that are not only analytically powerful but operationally resilient.
+I am a Data Engineer with over 15 years of end-to-end IT experience, progressing from Systems Infrastructure and DBA into modern Data Warehousing and Analytics. Because my roots are in heavy infrastructure (Linux, VMware, Networking) and Enterprise Database Administration (managing SQL Server environments scaling up to 8TB for flagship clients, alongside dozens of mid-sized enterprise databases.), I build data architectures that are not only analytically powerful but operationally resilient.
 
 I specialize in bridging the gap between business stakeholders and technical execution—translating complex client needs into scalable, high-performance data pipelines and intuitive BI dashboards. 
 
@@ -38,10 +39,11 @@ I am currently architecting a complete, containerized end-to-end pipeline to sim
 
 ### 🌍 Languages & Communication
 - **English:** Professional Working Proficiency (~B2)
-- **German:** Intermediate (~A2/B1 - Actively Learning for DACH integration)
+- **German:** Intermediate (~B1 - Actively Learning for DACH integration)
 - **Persian:** Native
 
 📫 **Let's Connect:** https://www.linkedin.com/in/mahdikohan/
+
 <!--
 **mahdicohan/mahdicohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
